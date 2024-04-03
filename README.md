@@ -1,5 +1,6 @@
-# youtube
+# PROYECTOS SIMPLES HTML CSS JS
 
-Este es un repositorio creado con el fin de facilitar el codigo de los proyectos subidos a mi canal de youtube, espero que te sirvan de ayuda.
+simples proyectos usando html, css y js
 
-https://www.youtube.com/channel/UCn_p3umlkHdWXkU5A7X4ZZg/featured
+
+
